@@ -16,13 +16,13 @@ PHP、MySQLを使った簡易的な販売サイトを研究室内で用いてい
 <img width="885" alt="スクリーンショット 2023-07-12 15 24 12" src="https://github.com/Tomo-osw/SimpleSalesSite/assets/84332899/e1387277-7e7a-4498-aaf4-6e7f05199189">
 
 データベースの構造については最低限問題なく動くように作成したが、UNIQUEやINDEXなどもっとこだわる必要性を感じ、少しずつ改良していきたいと考えている
-Usersテーブル
+Usersテーブル<br>
 <img width="707" alt="スクリーンショット 2023-07-12 15 19 42" src="https://github.com/Tomo-osw/SimpleSalesSite/assets/84332899/d47a0e53-be1a-4c93-afaf-a356b0ec295c">
 
-Productsテーブル
+Productsテーブル<br>
 <img width="732" alt="スクリーンショット 2023-07-12 15 19 54" src="https://github.com/Tomo-osw/SimpleSalesSite/assets/84332899/6500b314-5c33-4619-bab8-75a88bd713d1">
 
-BuyProductsテーブル
+BuyProductsテーブル<br>
 <img width="750" alt="スクリーンショット 2023-07-12 15 20 03" src="https://github.com/Tomo-osw/SimpleSalesSite/assets/84332899/eeac8d4d-f6fc-47f5-bbe1-84ccbad10d9d">
 
 
